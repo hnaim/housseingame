@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\lev1.cs">
+    <Files>
+      <File FileName="Assets\scripts\mutemenu.cs" Line="22" Column="40" />
+      <File FileName="Assets\scripts\lvlsmnu.cs" Line="24" Column="3" />
+      <File FileName="Assets\scripts\Level1Button.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\SaveLevel2.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\SaveLevel3.js" Line="5" Column="43" />
+      <File FileName="Assets\scripts\Reset.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\12.js" Line="7" Column="38" />
+      <File FileName="Assets\scripts\lev1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
